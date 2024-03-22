@@ -1,0 +1,1 @@
+Placeholder for employee profile picture has been added. 
