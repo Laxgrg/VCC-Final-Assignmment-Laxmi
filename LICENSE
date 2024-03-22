@@ -19,3 +19,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+The reason I have chosen MIT License
+
+The MIT License offers broad permissions for code usage, fostering collaboration. 
+Its simplicity aids clarity, unlike more complex licenses. Unlike the viral GPL, it doesn't 
+compel open-sourcing entire projects, making it appealing for businesses. It's compatible
+ with various licenses, easing integration. Widely adopted by major projects like jQuery 
+and Ruby on Rails, it strikes a balance between freedom and simplicity, appealing to both 
+individuals and organizations.
